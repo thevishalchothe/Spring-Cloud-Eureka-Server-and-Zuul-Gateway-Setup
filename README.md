@@ -1,2 +1,5 @@
-# Spring-Cloud-Eureka-Server-and-Zuul-Gateway-Setup
-Eureka Server and Zuul Gateway are both components of Spring Cloud, a set of tools and frameworks designed to build distributed systems, such as microservices architectures. 🌟🛠️
+# Spring Cloud Eureka Server and Zuul Gateway Setup 🛠️
+
+This project demonstrates a **microservices architecture** using **Eureka Server** for service discovery and **Zuul Gateway** for API routing. It highlights how to set up and configure both components in a **Spring Boot** application.
+
+---
