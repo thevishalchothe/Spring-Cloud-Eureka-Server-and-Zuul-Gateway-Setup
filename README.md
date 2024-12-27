@@ -54,3 +54,8 @@ Eureka Server is a service registry provided by Netflix, designed for service di
 - eureka.server.service-url.defaultZone=http://localhost:8762/eureka/
 
 ---
+
+## **🌐 Zuul API Gateway**
+
+Zuul is an API Gateway developed by Netflix, which acts as a single entry point for routing client requests to various microservices. It provides features like routing, monitoring, security, and load balancing, acting as a mediator between the client and backend services.
+
